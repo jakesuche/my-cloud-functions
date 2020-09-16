@@ -18,7 +18,10 @@ the functions where built with node.js
 ## description
         Setting up cloud platform
 ###   1 
-        with the first function, we are going to upload images to the storage which passes through the  cloud vision API to tag  images to give informations about the images, which will be used stored in cloud datastore for future uses
+        with the first function, we are going to upload images to the 
+        storage which passes through the  cloud vision API to tag  images 
+        to give informations about the images, which will be used stored in 
+        cloud datastore for future uses
 ###   2 pubsub event driven transaction system 
 ###   3 cron job to batch and aggregate transactions
 ###   4 Export and email daily functions invocations
